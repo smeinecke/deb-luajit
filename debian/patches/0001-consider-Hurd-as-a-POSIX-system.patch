@@ -8,10 +8,10 @@ Subject: consider Hurd as a POSIX system
  2 files changed, 5 insertions(+)
 
 diff --git a/src/Makefile b/src/Makefile
-index f56465d..8a38efd 100644
+index d22eb73..4252199 100644
 --- a/src/Makefile
 +++ b/src/Makefile
-@@ -344,6 +344,9 @@ else
+@@ -349,6 +349,9 @@ else
    ifeq (GNU/kFreeBSD,$(TARGET_SYS))
      TARGET_XLIBS+= -ldl
    endif
@@ -22,7 +22,7 @@ index f56465d..8a38efd 100644
  endif
  endif
 diff --git a/src/lj_arch.h b/src/lj_arch.h
-index c8d7138..d609b37 100644
+index 8f6bc52..227ffb2 100644
 --- a/src/lj_arch.h
 +++ b/src/lj_arch.h
 @@ -79,6 +79,8 @@
