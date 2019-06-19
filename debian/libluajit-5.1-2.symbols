@@ -1,4 +1,5 @@
 libluajit-5.1.so.2 libluajit-5.1-2 #MINVER#
+ lj_str_indep_hash@Base 2.1.20190530-1~ods
  luaJIT_profile_dumpstack@Base 2.1.0~beta1+dfsg
  luaJIT_profile_start@Base 2.1.0~beta1+dfsg
  luaJIT_profile_stop@Base 2.1.0~beta1+dfsg
@@ -60,6 +61,7 @@ libluajit-5.1.so.2 libluajit-5.1-2 #MINVER#
  lua_error@Base 2.0.4+dfsg
  lua_gc@Base 2.0.4+dfsg
  lua_getallocf@Base 2.0.4+dfsg
+ lua_getexdata@Base 2.1.20190530-1~ods
  lua_getfenv@Base 2.0.4+dfsg
  lua_getfield@Base 2.0.4+dfsg
  lua_gethook@Base 2.0.4+dfsg
@@ -108,6 +110,7 @@ libluajit-5.1.so.2 libluajit-5.1-2 #MINVER#
  lua_replace@Base 2.0.4+dfsg
  lua_resume@Base 2.0.4+dfsg
  lua_setallocf@Base 2.0.4+dfsg
+ lua_setexdata@Base 2.1.20190530-1~ods
  lua_setfenv@Base 2.0.4+dfsg
  lua_setfield@Base 2.0.4+dfsg
  lua_sethook@Base 2.0.4+dfsg
@@ -145,3 +148,4 @@ libluajit-5.1.so.2 libluajit-5.1-2 #MINVER#
  luaopen_package@Base 2.0.4+dfsg
  luaopen_string@Base 2.0.4+dfsg
  luaopen_table@Base 2.0.4+dfsg
+ recff_thread_exdata@Base 2.1.20190530-1~ods
