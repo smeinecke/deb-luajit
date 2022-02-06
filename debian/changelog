@@ -1,3 +1,9 @@
+luajit (2.1.20211210-1~ods1) buster; urgency=medium
+
+  * Rebuild for debian buster release
+
+ -- Stefan Meinecke <meinecke@greensec.de>  Sun, 06 Feb 2022 18:04:37 +0100
+
 luajit (2.1.20190530-1~ods1) buster; urgency=medium
 
   * Rebuild for debian buster release

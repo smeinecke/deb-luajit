@@ -1,0 +1,7 @@
+libluajit-5.1-2-dbgsym_2.1.20211210-1~ods1_amd64.deb debug optional automatic=yes
+libluajit-5.1-2_2.1.20211210-1~ods1_amd64.deb interpreters optional
+libluajit-5.1-common_2.1.20211210-1~ods1_all.deb interpreters optional
+libluajit-5.1-dev_2.1.20211210-1~ods1_amd64.deb libdevel optional
+luajit-dbgsym_2.1.20211210-1~ods1_amd64.deb debug optional automatic=yes
+luajit_2.1.20211210-1~ods1_amd64.buildinfo interpreters optional
+luajit_2.1.20211210-1~ods1_amd64.deb interpreters optional
